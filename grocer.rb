@@ -85,7 +85,7 @@ final_cart = apply_clearance(couponed_cart)
 
 total = 0
 counter = 0
-while counter < final_cart
+while counter < final_cart.length
 
 counter += 1
 end
